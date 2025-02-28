@@ -6,5 +6,5 @@
 • 💻 Development & Programming (Python | JavaScript | HTML | CSS) 
 
 ### How to find me?
-• 📂 GitHub: github.com/bren0santos
+• 📂 GitHub: [github.com/bren0santos](https://github.com/bren0santos)
 • 📫 E-mail: santosbreno112@gmail.com
