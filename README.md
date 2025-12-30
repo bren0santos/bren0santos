@@ -1,5 +1,5 @@
 ## Hello, I'm Breno Santos!
-- ⚙️ Computer Engineering – 8th semester 
+- ⚙️ Computer Engineering – 10th semester 
 - 🤖 Automation & RPA (Power Automate | Python | KNIME) 
 - 📱 App Development (Power Apps) 
 - 📊 Data Analysis (Power BI | Pandas | Web Scraping) 
